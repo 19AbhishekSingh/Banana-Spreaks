@@ -18,7 +18,7 @@ body {
 }
 
 h1 {
-    background-color: #ece35d;
+    background-color: #fdf24f;
     height: 5rem;
     margin: 0;
 
@@ -40,7 +40,7 @@ h1 {
 #btn-translate {
     min-width: 150px;
     height: 3rem;
-    background-color: #f1b950;
+    background-color: #fdf24f;
     margin: 1rem 0;
     padding: .5rem;
 
@@ -70,7 +70,7 @@ margin: auto;
 }
 
 footer {
-    background-color: #f1b950;
+    background-color: #fdf24f;
     margin-bottom: 0;
     padding-bottom: 3rem;
     display: block;
