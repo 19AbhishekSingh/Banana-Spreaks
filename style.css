@@ -69,11 +69,16 @@ margin: auto;
     
 }
 
-footer {
-    background-color: #fdf24f;
-    margin-bottom: 0;
-    padding-bottom: 3rem;
-    display: block;
+.footer-container {
+    background-color:#fdf24f;
+    color: black;
+    border-radius: 1rem 1rem 0 0;
+    text-align: center;
+    padding: 1rem;
+}
+.image-size {
+    width: 2rem;
+    margin: 1rem;
     
 }
 
